@@ -1,0 +1,26 @@
+E:\vs2012\1progs\3dSemestr\Store\Store\bin\Debug\Store.exe.config
+E:\vs2012\1progs\3dSemestr\Store\Store\bin\Debug\Store.exe
+E:\vs2012\1progs\3dSemestr\Store\Store\bin\Debug\Store.pdb
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\MainWindow.baml
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\MainWindow.g.cs
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\App.g.cs
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\Store_MarkupCompile.cache
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\Store.g.resources
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\Store.Properties.Resources.resources
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\Store.csproj.GenerateResource.Cache
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\Store.exe
+E:\vs2012\1progs\3dSemestr\Store\Store\obj\Debug\Store.pdb
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\bin\Debug\Store.exe.config
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\Store.exe
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\Store.pdb
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\bin\Debug\Store.exe
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\bin\Debug\Store.pdb
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\MainWindow.baml
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\MainWindow.g.cs
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\App.g.cs
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\Store_MarkupCompile.cache
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\Store.g.resources
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\Store.Properties.Resources.resources
+E:\vs2012\1progs\3dSemestr\Store — копия\Store\obj\Debug\Store.csproj.GenerateResource.Cache

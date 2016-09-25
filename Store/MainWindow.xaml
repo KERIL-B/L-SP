@@ -1,0 +1,26 @@
+﻿<Window x:Class="Store.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="My store" Height="350" Width="525"
+        >
+    <Grid>
+        <StackPanel x:Name="mainSP"   HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Bottom" Width="497" CanVerticallyScroll="True" CanHorizontallyScroll="True">
+
+            <Canvas HorizontalAlignment="Left" Height="299" Width="497">
+                <Label x:Name="timeL" Content="0/" Canvas.Left="437" Height="25" Width="50" Canvas.Right="0" Canvas.Top="0">
+                </Label>
+                <Canvas x:Name="canvas1" Height="299" Width="497"/>
+            </Canvas>
+
+        </StackPanel>
+        <StackPanel x:Name="startSP" HorizontalAlignment="Left" Height="299" Margin="178.5,10,0,0" VerticalAlignment="Top" Width="160">
+            <Label Content="Enter number of cashboxes"/>
+            <TextBox x:Name="cashBoxesNumberTB" Height="23" TextWrapping="Wrap" Text=""/>
+            <Button x:Name="doorB" Height="250" Click="doorB_Click">
+                <StackPanel>
+                    <Image Source="E:\vs2012\1progs\3dSemestr\Store\Door.png" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
